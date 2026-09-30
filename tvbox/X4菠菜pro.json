@@ -2742,7 +2742,7 @@
         "site": [
           "https://www.kfzys.net"
         ],
-        "cookie": "bbs_sid=p5mugcm9r147o1d3qpi0su1ucm; bbs_token=gDMAOehNUQetTJv9Lnet0J_2FGJmgdvnx90iTZqzU_2FnO0_3D"
+        "cookie": "https://0.12yue.de5.net/5/bbs_sid=p5mugcm9r147o1d3qpi0su1ucm; bbs_token=gDMAOehNUQetTJv9Lnet0J_2FGJmgdvnx90iTZqzU_2FnO0_3D"
       }
     },
     {
@@ -2894,14 +2894,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "appName": "橘汁",
+        "appName": "https://0.12yue.de5.net/5/橘汁",
         "publicKey": "https://0.12yue.de5.net/5/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.lxf.snzlcgtzxyx",
+        "dataKey": "https://0.12yue.de5.net/5/DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataIv": "https://0.12yue.de5.net/5/OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "https://0.12yue.de5.net/5/com.lxf.snzlcgtzxyx",
         "host": "",
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.1",
+        "version": "https://0.12yue.de5.net/5/3.0.2.1",
         "decrypt": "1"
       }
     },
@@ -2914,14 +2914,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "appName": "华谊",
+        "appName": "https://0.12yue.de5.net/5/华谊",
         "publicKey": "https://0.12yue.de5.net/5/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.muyue.tool",
+        "dataKey": "https://0.12yue.de5.net/5/NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+        "dataIv": "https://0.12yue.de5.net/5/OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "https://0.12yue.de5.net/5/com.muyue.tool",
         "host": "",
         "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version": "1.0.0.4",
+        "version": "https://0.12yue.de5.net/5/1.0.0.4",
         "decrypt": "1"
       }
     },
@@ -2943,15 +2943,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "请求头": "手机",
+        "请求头": "https://0.12yue.de5.net/5/手机",
         "简介": "https://0.12yue.de5.net/5/text cor3\">[*],&&</div>",
-        "图片": "data-src=\"&&\"[替换:amp;>>空]",
+        "图片": "https://0.12yue.de5.net/5/data-src=\"&&\"[替换:amp;>>空]",
         "主页url": "https://www.cd-zj.com/label/qq.html",
         "副标题": "https://0.12yue.de5.net/5/ft2\">&&</i>",
         "线路数组": "https://0.12yue.de5.net/5/<i class=\"fa ds-dianying\">&&</span>",
         "播放数组": "https://0.12yue.de5.net/5/anthology-list-play size\">&&</ul>",
         "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+        "分类": "https://0.12yue.de5.net/5/电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
       }
     },
     {
@@ -2975,8 +2975,8 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
         "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
-        "key": "nzEqOgYk3QzHuEP8",
-        "init": "V122",
+        "key": "https://0.12yue.de5.net/5/nzEqOgYk3QzHuEP8",
+        "init": "https://0.12yue.de5.net/5/V122",
         "api": 2,
         "ua": "https://0.12yue.de5.net/5/okhttp/3.10.0"
       },
@@ -3037,12 +3037,12 @@
         "host": "http://111.170.140.70:19987/app/bn",
         "LoginPath": "https://0.12yue.de5.net/app/log",
         "version": "",
-        "appkey": "c403317c2a2946659b0bcbabdd5de43a",
-        "versionName": "1.0.1",
-        "name": "无极影视",
-        "package": "com.wujiys.app",
+        "appkey": "https://0.12yue.de5.net/5/c403317c2a2946659b0bcbabdd5de43a",
+        "versionName": "https://0.12yue.de5.net/5/1.0.1",
+        "name": "https://0.12yue.de5.net/5/无极影视",
+        "package": "https://0.12yue.de5.net/5/com.wujiys.app",
         "buildNumber": "2001",
-        "buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
+        "buildSignature": "https://0.12yue.de5.net/5/A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
       }
     },
     {
@@ -3053,12 +3053,12 @@
       "ext": {
         "host": "http://113.31.180.218:19987/app/bn",
         "LoginPath": "https://0.12yue.de5.net/app/log",
-        "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-        "versionName": "4.3.1",
-        "name": "小橙子",
-        "package": "com.xchengzix.app",
+        "appkey": "https://0.12yue.de5.net/5/6e8f3764a0644f3686ab5cdd57bcdf48",
+        "versionName": "https://0.12yue.de5.net/5/4.3.1",
+        "name": "https://0.12yue.de5.net/5/小橙子",
+        "package": "https://0.12yue.de5.net/5/com.xchengzix.app",
         "buildNumber": "2001",
-        "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
+        "buildSignature": "https://0.12yue.de5.net/5/99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
       }
     },
     {
@@ -3068,12 +3068,12 @@
       "api": "csp_App99",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
+        "appkey": "https://0.12yue.de5.net/5/d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "https://0.12yue.de5.net/5/1.2.0",
+        "name": "https://0.12yue.de5.net/5/剧圈圈",
+        "package": "https://0.12yue.de5.net/5/com.qingtangxiaozhuan.xyz",
         "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+        "buildSignature": "https://0.12yue.de5.net/5/054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
     {
@@ -3084,12 +3084,12 @@
       "ext": {
         "host": "http://175.178.65.250:19987/app/bn",
         "LoginPath": "https://0.12yue.de5.net/app/log",
-        "appkey": "f66f65db127e48449f073c2c6eb0f993",
-        "versionName": "6.4.5",
-        "name": "双子星动漫",
-        "package": "com.yingfu.mobile.android.pgsp",
+        "appkey": "https://0.12yue.de5.net/5/f66f65db127e48449f073c2c6eb0f993",
+        "versionName": "https://0.12yue.de5.net/5/6.4.5",
+        "name": "https://0.12yue.de5.net/5/双子星动漫",
+        "package": "https://0.12yue.de5.net/5/com.yingfu.mobile.android.pgsp",
         "buildNumber": "2003",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+        "buildSignature": "https://0.12yue.de5.net/5/054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
     {
@@ -3101,14 +3101,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "appName": "电影天堂",
+        "appName": "https://0.12yue.de5.net/5/电影天堂",
         "publicKey": "https://0.12yue.de5.net/5/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.dytiantang.one",
+        "dataKey": "https://0.12yue.de5.net/5/D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "https://0.12yue.de5.net/5/OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "https://0.12yue.de5.net/5/com.dytiantang.one",
         "host": "",
         "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-        "version": "3.0.0.7",
+        "version": "https://0.12yue.de5.net/5/3.0.0.7",
         "decrypt": "0"
       }
     },
@@ -3121,14 +3121,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "appName": "小苹果",
+        "appName": "https://0.12yue.de5.net/5/小苹果",
         "publicKey": "https://0.12yue.de5.net/5/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.juechufsh.android.xpg1",
+        "dataKey": "https://0.12yue.de5.net/5/S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "https://0.12yue.de5.net/5/OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "https://0.12yue.de5.net/5/com.juechufsh.android.xpg1",
         "host": "",
         "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-        "version": "1.0.0.3",
+        "version": "https://0.12yue.de5.net/5/1.0.0.3",
         "decrypt": "0"
       }
     },
@@ -3141,14 +3141,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "appName": "薯条影视",
+        "appName": "https://0.12yue.de5.net/5/薯条影视",
         "publicKey": "https://0.12yue.de5.net/5/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.st.standroid",
+        "dataKey": "https://0.12yue.de5.net/5/A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+        "dataIv": "https://0.12yue.de5.net/5/OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "https://0.12yue.de5.net/5/com.st.standroid",
         "host": "",
         "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
-        "version": "5.0.0.1",
+        "version": "https://0.12yue.de5.net/5/5.0.0.1",
         "decrypt": "0"
       }
     },
@@ -3171,10 +3171,10 @@
       "changeable": 1,
       "ext": {
         "url": "https://qj4.catbb.xyz",
-        "dataKey": "eecbio48dsq13kkk",
-        "dataIv": "eecbio48dsq13kkk",
-        "search": "searchList4",
-        "init": "initV122",
+        "dataKey": "https://0.12yue.de5.net/5/eecbio48dsq13kkk",
+        "dataIv": "https://0.12yue.de5.net/5/eecbio48dsq13kkk",
+        "search": "https://0.12yue.de5.net/5/searchList4",
+        "init": "https://0.12yue.de5.net/5/initV122",
         "ua": "https://0.12yue.de5.net/5/okhttp/3.10.0"
       }
     },
@@ -3187,9 +3187,9 @@
       "changeable": 1,
       "ext": {
         "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "init": "initV120",
+        "dataKey": "https://0.12yue.de5.net/5/ca94b06ca359d80e",
+        "dataIv": "https://0.12yue.de5.net/5/ca94b06ca359d80e",
+        "init": "https://0.12yue.de5.net/5/initV120",
         "ua": "https://0.12yue.de5.net/5/okhttp/3.10.0"
       }
     },
@@ -3202,9 +3202,9 @@
       "changeable": 1,
       "ext": {
         "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M",
-        "init": "initV120",
+        "dataKey": "https://0.12yue.de5.net/5/FTgP4Gq8zPiqbt7M",
+        "dataIv": "https://0.12yue.de5.net/5/FTgP4Gq8zPiqbt7M",
+        "init": "https://0.12yue.de5.net/5/initV120",
         "ua": "https://0.12yue.de5.net/5/okhttp/3.10.0"
       }
     },
@@ -3230,8 +3230,8 @@
       "changeable": 1,
       "ext": {
         "url": "https://app.95112475.xyz",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6"
+        "dataKey": "https://0.12yue.de5.net/5/5a9w6x58dsq6z3a6",
+        "dataIv": "https://0.12yue.de5.net/5/5a9w6x58dsq6z3a6"
       }
     },
     {
@@ -3243,8 +3243,8 @@
       "changeable": 1,
       "ext": {
         "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
+        "dataKey": "https://0.12yue.de5.net/5/88689667dce61725",
+        "dataIv": "https://0.12yue.de5.net/5/88689667dce61725"
       }
     },
     {
@@ -3298,9 +3298,9 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
+        "请求头": "https://0.12yue.de5.net/5/User-Agent$MOBILE_UA",
+        "编码": "https://0.12yue.de5.net/5/UTF-8",
+        "分类": "https://0.12yue.de5.net/5/重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
         "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
       }
     },
@@ -3370,9 +3370,9 @@
       "api": "csp_XBPQ",
       "ext": {
         "线路数组": "https://0.12yue.de5.net/5/<a data-toggle=\"tab\"&&/a>",
-        "线路标题": ">&&<",
+        "线路标题": "https://0.12yue.de5.net/5/>&&<",
         "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+        "分类": "https://0.12yue.de5.net/5/电影$1#电视剧$2#动漫$3#综艺$4"
       }
     },
     {
@@ -3381,11 +3381,11 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
+        "请求头": "https://0.12yue.de5.net/5/User-Agent$MOBILE_UA",
+        "编码": "https://0.12yue.de5.net/5/UTF-8",
         "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
-        "简介": "简介：&&"
+        "分类": "https://0.12yue.de5.net/5/电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
+        "简介": "https://0.12yue.de5.net/5/简介：&&"
       }
     },
     {
@@ -3394,10 +3394,10 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
+        "请求头": "https://0.12yue.de5.net/5/User-Agent$MOBILE_UA",
+        "编码": "https://0.12yue.de5.net/5/UTF-8",
+        "分类": "https://0.12yue.de5.net/5/电影$1#电视剧$2#综艺$3#动漫$4",
+        "类型": "https://0.12yue.de5.net/5/动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       }
     },
@@ -3435,9 +3435,9 @@
       "api": "csp_AppSy",
       "ext": {
         "url": "http://114.66.27.208:806",
-        "siteKey": "rectangleadsadxa",
-        "listKey": "aassddwwxxllsx1x",
-        "parsesKey": "aassddwwxxllsx1x"
+        "siteKey": "https://0.12yue.de5.net/5/rectangleadsadxa",
+        "listKey": "https://0.12yue.de5.net/5/aassddwwxxllsx1x",
+        "parsesKey": "https://0.12yue.de5.net/5/aassddwwxxllsx1x"
       }
     },
     {
@@ -3448,8 +3448,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "https://www.cyfz.top",
-        "dataKey": "e72cdfd629e8895d",
-        "dataIv": "e72cdfd629e8895d"
+        "dataKey": "https://0.12yue.de5.net/5/e72cdfd629e8895d",
+        "dataIv": "https://0.12yue.de5.net/5/e72cdfd629e8895d"
       }
     },
     {
@@ -3460,8 +3460,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "https://app.omofun1.top",
-        "dataKey": "66dc309cbeeca454",
-        "dataIv": "66dc309cbeeca454"
+        "dataKey": "https://0.12yue.de5.net/5/66dc309cbeeca454",
+        "dataIv": "https://0.12yue.de5.net/5/66dc309cbeeca454"
       }
     },
     {
@@ -3472,8 +3472,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "https://www.gugu3.com",
-        "dataKey": "nKfZ8KX6JTNWRzTD",
-        "dataIv": "nKfZ8KX6JTNWRzTD"
+        "dataKey": "https://0.12yue.de5.net/5/nKfZ8KX6JTNWRzTD",
+        "dataIv": "https://0.12yue.de5.net/5/nKfZ8KX6JTNWRzTD"
       }
     },
     {
@@ -3670,8 +3670,8 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
         "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt",
-        "key": "wNCwbXzr0Bm6cS2C",
-        "init": "V122",
+        "key": "https://0.12yue.de5.net/5/wNCwbXzr0Bm6cS2C",
+        "init": "https://0.12yue.de5.net/5/V122",
         "api": 2,
         "ua": "https://0.12yue.de5.net/5/okhttp/3.10.0"
       }
@@ -3683,8 +3683,8 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
         "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-        "key": "ca94b06ca359d80e",
-        "init": "V120",
+        "key": "https://0.12yue.de5.net/5/ca94b06ca359d80e",
+        "init": "https://0.12yue.de5.net/5/V120",
         "api": 2,
         "ua": "https://0.12yue.de5.net/5/okhttp/3.10.0"
       },
@@ -3705,8 +3705,8 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
         "host": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt",
-        "key": "8R33VQSxzmCaHpEX",
-        "init": "V122",
+        "key": "https://0.12yue.de5.net/5/8R33VQSxzmCaHpEX",
+        "init": "https://0.12yue.de5.net/5/V122",
         "api": 2,
         "ua": "https://0.12yue.de5.net/5/okhttp/3.10.0"
       }
@@ -4376,7 +4376,7 @@
     {
       "name": "Web聚合",
       "type": 3,
-      "url": "Web"
+      "url": "https://0.12yue.de5.net/5/Web"
     },
     {
       "name": "-咸鱼-",

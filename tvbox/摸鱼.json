@@ -126,7 +126,7 @@
       "changeable": 1,
       "ext": {
         "site": "https://kanju.ai",
-        "playname": "ly"
+        "playname": "http:///ly"
       }
     },
     {
@@ -139,7 +139,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "huaxin"
+        "site": "http:///huaxin"
       }
     },
     {
@@ -152,7 +152,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "yanchi"
+        "site": "http:///yanchi"
       }
     },
     {
@@ -165,7 +165,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "sujian"
+        "site": "http:///sujian"
       }
     },
     {
@@ -178,7 +178,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "danqing"
+        "site": "http:///danqing"
       }
     },
     {
@@ -216,7 +216,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "yunxiu"
+        "site": "http:///yunxiu"
       }
     },
     {
@@ -301,7 +301,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "chaliao"
+        "site": "http:///chaliao"
       }
     },
     {
@@ -314,7 +314,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "qitong"
+        "site": "http:///qitong"
       }
     },
     {
@@ -327,7 +327,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "jinshu"
+        "site": "http:///jinshu"
       }
     },
     {
@@ -340,7 +340,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "qiping"
+        "site": "http:///qiping"
       }
     },
     {
@@ -353,7 +353,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "zhuyin"
+        "site": "http:///zhuyin"
       }
     },
     {
@@ -366,7 +366,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "yujie"
+        "site": "http:///yujie"
       }
     },
     {
@@ -379,7 +379,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "xiangzhu"
+        "site": "http:///xiangzhu"
       }
     },
     {
@@ -392,7 +392,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "songting"
+        "site": "http:///songting"
       }
     },
     {
@@ -405,7 +405,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "zhiyuan"
+        "site": "http:///zhiyuan"
       }
     },
     {
@@ -418,7 +418,7 @@
       "changeable": 0,
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
-        "site": "moyan"
+        "site": "http:///moyan"
       }
     },
     {
@@ -428,7 +428,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "zn"
+        "playname": "http:///zn"
       }
     },
     {
@@ -438,7 +438,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "xg"
+        "playname": "http:///xg"
       }
     },
     {
@@ -448,7 +448,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "lz"
+        "playname": "http:///lz"
       }
     },
     {
@@ -458,7 +458,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "hj"
+        "playname": "http:///hj"
       }
     },
     {
@@ -468,7 +468,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "sy"
+        "playname": "http:///sy"
       }
     },
     {
@@ -478,7 +478,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "jh"
+        "playname": "http:///jh"
       }
     },
     {
@@ -488,7 +488,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "zh"
+        "playname": "http:///zh"
       }
     },
     {
@@ -498,7 +498,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "zs"
+        "playname": "http:///zs"
       }
     },
     {
@@ -508,7 +508,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "qy"
+        "playname": "http:///qy"
       }
     },
     {
@@ -518,7 +518,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "gl"
+        "playname": "http:///gl"
       }
     },
     {
@@ -528,7 +528,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "mj"
+        "playname": "http:///mj"
       }
     },
     {
@@ -538,7 +538,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "cm"
+        "playname": "http:///cm"
       }
     },
     {
@@ -548,7 +548,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "xc"
+        "playname": "http:///xc"
       }
     },
     {
@@ -558,7 +558,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "nz"
+        "playname": "http:///nz"
       }
     },
     {
@@ -568,7 +568,7 @@
       "type": 3,
       "ext": {
         "php": "https://max.moyu666666.top/appun.php",
-        "playname": "mc"
+        "playname": "http:///mc"
       }
     },
     {
@@ -951,7 +951,7 @@
       "filterable": 1,
       "ext": {
         "host": "https://short.fishcloud.top",
-        "quality": "1080p",
+        "quality": "http:///1080p",
         "danmu": false
       }
     },
@@ -1100,11 +1100,11 @@
       "changeable": 1,
       "ext": {
         "categories": [
-          "周杰伦",
-          "林俊杰",
-          "陈奕迅",
-          "邓紫棋",
-          "薛之谦"
+          "http:///周杰伦",
+          "http:///林俊杰",
+          "http:///陈奕迅",
+          "http:///邓紫棋",
+          "http:///薛之谦"
         ]
       }
     },
